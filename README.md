@@ -1,11 +1,11 @@
-# Resources and Projects while Learning and Building Strong Web Animation Skills
+# Web Animation Resources and Mini-projects
 
 **Note**: The Boilerblate used for the project was initially from [Gulp Sass Starter Template](https://github.com/cssanimation/gulp-sass-starter/).
 
 ## CSS Animation Learning
 
 + Learn How to add animations to web pages using CSS: [CSS Animation 101](https://cssanimation.rocks/courses/animation-101/)
-+ Level Up Your CSS Animation Skills:[CSS Animation Level Up](https://courses.cssanimation.rocks/p/level-up)
++ Level Up Your CSS Animation Skills: [CSS Animation Level Up](https://courses.cssanimation.rocks/p/level-up)
 
 ## About Project
 
