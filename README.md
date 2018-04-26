@@ -1,4 +1,4 @@
-# Web Animation Resources and Mini-projects
+# Web Animation Resources and Mini-projects 😇
 
 **Note**: The Boilerblate used for the project was initially from [Gulp Sass Starter Template](https://github.com/cssanimation/gulp-sass-starter/).
 
