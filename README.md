@@ -6,6 +6,7 @@
 
 + Learn How to add animations to web pages using CSS: [CSS Animation 101](https://cssanimation.rocks/courses/animation-101/)
 + Level Up Your CSS Animation Skills: [CSS Animation Level Up](https://courses.cssanimation.rocks/p/level-up)
++ A crash course in CSS3 and HTML5: [Animation School](http://rachelnabors.com/animation-workshop/)
 
 ## About Project
 
